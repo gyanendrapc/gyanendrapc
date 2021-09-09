@@ -1,6 +1,7 @@
 /* navbar style */
 .navbar {
-  color: rgba(39, 174, 96, 0.65);
+  /* color: rgba(39, 174, 96, 0.65); */
+  color: #222;
 
   padding: 0.2rem;
 }
@@ -26,7 +27,8 @@ nav > ul {
   color: #f2f2f2;
 }
 .nav-link {
-  color: rgba(39, 174, 96, 0.65);
+  /* color: rgba(39, 174, 96, 0.65); */
+  color: #222;
   padding: 2px 1rem;
   text-decoration: none;
   border: 2px solid rgba(39, 174, 96, 0.65);

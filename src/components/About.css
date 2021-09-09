@@ -1,0 +1,18 @@
+.about > .image__wrapper {
+  margin: 0 auto;
+  height: 250px;
+  width: 250px;
+  border: 2px solid black;
+  border-radius: 50%;
+  overflow: hidden;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.about > .dev__info {
+  text-align: center;
+}
+.about > .dev__info > .dev__thought {
+  margin-top: 10px;
+  line-height: 12px;
+}

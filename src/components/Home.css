@@ -14,9 +14,14 @@
   position: absolute;
   top: 170px;
   left: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  height: 300px;
+  width: 300px;
+  text-align: center;
 }
 .developer__image > .image > img {
-  width: 100%;
+  /* width: 100%; */
   max-width: 100%;
   height: 100%;
 }

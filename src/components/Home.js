@@ -3,13 +3,11 @@ import "./Home.css";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  fab,
   faFacebook,
   faGithub,
   faLinkedin,
   faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
-import { faCoffee } from "@fortawesome/free-solid-svg-icons";
 
 function Home() {
   return (
@@ -17,7 +15,7 @@ function Home() {
       <div className="row">
         <div className="developer__image">
           <div className="image">
-            <img src="/images/gyanendrapc.png" />
+            <img src="/images/gyanendrapc.png" alt="developer-image" />
           </div>
         </div>
         <div className="developer__info">
