@@ -44,6 +44,9 @@ nav > ul {
 .learnings {
   position: absolute;
   top: 2.5rem;
+  background-color: #f2c94c;
+  border-radius: 5px;
+  padding: 8px;
 }
 .learnings > .nav-link {
   display: inline-block;

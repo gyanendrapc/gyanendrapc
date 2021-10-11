@@ -1,6 +1,7 @@
 {
   "name": "gyanendrapc",
   "version": "0.1.0",
+  "homepage":"http://chaudharygyanendra.com.np",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",

@@ -39,7 +39,7 @@ function Photography() {
         </div>
         <div className="gallery__images">
           <div className="cover__image">
-            <img src="" />
+            <img src="/images/" />
           </div>
         </div>
       </div>
